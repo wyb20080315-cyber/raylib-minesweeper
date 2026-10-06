@@ -1,0 +1,23 @@
+﻿# --- Visual Studio ---
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.log
+*.tlog
+*.lastbuildstate
+*.ipch
+
+# --- 本项目：调试截图 ---
+_shot_test/
+
+# --- 系统文件 ---
+Thumbs.db
+desktop.ini
